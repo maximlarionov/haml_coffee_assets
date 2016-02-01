@@ -1,6 +1,6 @@
 require 'spec_helper'
 require 'action_view'
-require 'active_support/core_ext/object/to_json'
+# require 'active_support/core_ext/object/to_json'
 require 'haml_coffee_assets/action_view/template_handler'
 
 describe HamlCoffeeAssets::ActionView::TemplateHandler do
